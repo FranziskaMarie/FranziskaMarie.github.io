@@ -21,6 +21,13 @@ categories: jekyll update
        width:    100%;
        height:   100%
        }
+
+       .center {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 50%;
+}
 </style>
 
 Little data story about vehicle thefts in San Francisco.
@@ -32,10 +39,6 @@ Little data story about vehicle thefts in San Francisco.
        width="1100"
        height="600"
 />
-
-<div class="model-box">
-<iframe class="model" src="/assets/vehicle_thefts_map.html" frameborder="0" allowfullscreen=""></iframe>
-</div>
 
 <embed 
        type="text/html" 
