@@ -1,0 +1,41 @@
+---
+---
+@import "{{ site.theme }}";
+
+/*! .page-header { color: #fff; text-align: center; background-color: #fff; background-image: linear-gradient(120deg, 
+    #f0f921,
+    #fada24,
+    #febd2a,
+    #fba238,
+    #f48849,
+    #e97158,
+    #db5c68,
+    #cb4679,
+    #b83289,
+    #a31e9a,
+    #8b0aa5,
+    #6f00a8,
+    #5302a3,
+    #350498,
+    #0d0887); } */
+
+.page-header { color: #fff; text-align: center; background-color: #fff; background-image: linear-gradient(120deg, 
+    #6f00a8,
+    #0d0887); 
+}
+
+footer {
+    display: none !important;
+}
+    
+.btn {
+    display: none !important; 
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #0d0887; }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
