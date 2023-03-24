@@ -26,13 +26,14 @@ categories: jekyll update
        display: block;
        margin-left: auto;
        margin-right: auto;
-       width: 50%;
+       width: 70%;
+       height: 70%
 }
 </style>
 
 Little data story about vehicle thefts in San Francisco.
 
-<img src="/assets/calender_plot.png" position='right' width="60%" height="60%" alt="Calender plot of vehicle thefts in San Francisco from 2003-2017">
+<img src="/assets/calender_plot.png" class='center' width="60%" height="60%" alt="Calender plot of vehicle thefts in San Francisco from 2003-2017">
 <embed 
        type="text/html" 
        src="/assets/vehicle_thefts_ratio.html"
