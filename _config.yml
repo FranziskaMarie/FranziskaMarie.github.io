@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Franzis webpage
+title: Vehicle thefts in San Francisco
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Really great website from a great person.
+  How improvements in security systems reduced vehicle thefts and in which district you should park your car.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: franziskamarie.github.io # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://franziskamarie.github.io # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,9 +29,11 @@ url: https://franziskamarie.github.io # the base hostname & protocol for your si
 github_username: FranziskaMarie
 
 # Build settings
-theme: Minima
+# theme: Minima
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
