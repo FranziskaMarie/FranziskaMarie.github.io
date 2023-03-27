@@ -10,15 +10,15 @@ title: Vehicle thefts in San Francisco
 <p>
        Over the past few years, San Francisco has experienced a high number of criminal incidents. The authorities made an effort to collect data on all recorded crimes that took place in the city and made it publicly available. The following investigation refers to the period 2003 to 2017 of this data. An initial inspection of the collected dataset indicates that there has been considerable fluctuations in the number of incidents in many of the 37 different crime categories during the years. In particular, the number of vehicle thefts in San Francisco had a significant change in the chosen period. Thus, our focus will be on examining and analyzing changes that have occured in this crime category.
        <br>
-       In the early 2000s, San Francisco was struck by a surge in vehicle thefts. Cars parked on the streets were being stolen at an alarming rate resulting in frustrated citizens and increased workload for the police. However, there was a significant drop in occurences starting 2006 which can be seen in figure 1.
+       In the early 2000s, San Francisco was struck by a surge in vehicle thefts. Cars parked on the streets were being stolen at an alarming rate resulting in frustrated citizens and increased workload for the police. However, there was a significant drop in occurrences starting 2006 which can be seen in figure 1.
 
 </p>
 
 <aside style='width: 50%'>
-       <!-- <p style='text-align:center; font-size: 12px'>Occurences of vehicle thefts in San Francisco from 2003 to 2017</p> -->
+       <!-- <p style='text-align:center; font-size: 12px'>Occurrences of vehicle thefts in San Francisco from 2003 to 2017</p> -->
        <figure>
               <img src="/assets/calender_plot.png" width='100%' height='auto' alt="Calender plot of vehicle thefts in San Francisco from 2003-2017"/>
-              <figcaption>Fig.1 - Occurences of vehicle thefts in San Francisco from 2003 to 2017. Darker colors indicate a higher amount of vehicle thefts while lighter colors display a lower number. Interesting to see is that there is a significant drop from 2005 to 2006.</figcaption>
+              <figcaption>Fig.1 - Occurrences of vehicle thefts in San Francisco from 2003 to 2017. Darker colors indicate a higher amount of vehicle thefts while lighter colors display a lower number. Interesting to see is that there is a significant drop from 2005 to 2006.</figcaption>
        </figure>
 </aside>
 
@@ -55,7 +55,7 @@ title: Vehicle thefts in San Francisco
               width='100%'
               height="500"
        />
-       <figcaption>Fig.2 - Occurences of vehicle thefts in San Francisco from 2003 to 2017 in the different districts. Darker colors indicate a higher amount of vehicle thefts while lighter colors display a lower number. Black dots are hotspots of car break-ins.</figcaption>
+       <figcaption>Fig.2 - Occurrences of vehicle thefts in San Francisco from 2003 to 2017 in the different districts. Darker colors indicate a higher amount of vehicle thefts while lighter colors display a lower number. Black dots are hotspots of car break-ins.</figcaption>
 </figure>
 
 <p>
