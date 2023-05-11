@@ -1,6 +1,6 @@
 ---
 title: Evictions in NYC
-description: New law during covid - Hotspot Neighbourhoods - Rent prices - Insight about people
+description: New law during covid - Hotspot Neighbourhoods - Insight about areas
 permalink: /posts/evictions-NYC
 ---
 
@@ -93,6 +93,8 @@ permalink: /posts/evictions-NYC
 <p>
        Having the above in mind, it can be referred that the distribution of different professions among the boroughs can explain, at least to some extent, why evictions might be higher in Bronx compared to other districts. The information retrieved from the ethnicity groups residing in each district cannot provide us with an explanation or justification about eviction rates but it can display some interesting facts that could be relevant for another research topic. For example, based on the above findings, someone could enhance his/her knowledge on how the wealth is distributed among ethnicity groups in New York City, which are the main professions of each group and why does it happen that Hispanic-Latino and African Americans are working in lower-salary industries.
 </p>
+
+<h2>Other factors</h2>
 
 <p>
        To be determined of why there are so high differences in NYC, we need to look at many factors that could have an influence. Unfortunatly we cannot discuss all aspects of the ACS data in detail in this article. Nevertheless we selected possibly related factors and display them on the map in figure 7. We encourage to click the drop-down button and find potential correlations to the distribution of evictions yourself! If you want further information see also our
