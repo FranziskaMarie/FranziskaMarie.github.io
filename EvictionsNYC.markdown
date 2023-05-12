@@ -1,6 +1,6 @@
 ---
 title: Evictions in NYC
-description: New law during covid - Hotspot Neighbourhoods - Insight about areas
+description: New law during Covid - Hotspot Neighbourhoods - Rent prices - Insight about areas
 permalink: /posts/evictions-NYC
 ---
 
