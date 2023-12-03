@@ -16,7 +16,7 @@ permalink: /posts/IntroToBA
               width='100%'
               height="600"
        />
-       <figcaption>Fig.1 - Clustering with KMeans</figcaption>
+       <figcaption>Fig.1 - Clustering with KMeans. Use the zooom in option to take a closer look!</figcaption>
 </figure>
 
 <figure style='width: 100%; margin-right: auto; margin-left:auto'>
@@ -26,7 +26,7 @@ permalink: /posts/IntroToBA
               width='100%'
               height="600"
        />
-       <figcaption>Fig.2 - Sarimax model for Pickups</figcaption>
+       <figcaption>Fig.2 - Sarimax model for Pickups. Use the zooom in option to take a closer look!</figcaption>
 </figure>
 
 <figure style='width: 100%; margin-right: auto; margin-left:auto'>
@@ -36,5 +36,5 @@ permalink: /posts/IntroToBA
               width='100%'
               height="600"
        />
-       <figcaption>Fig.3 - Sarimax model for Dropoffs</figcaption>
+       <figcaption>Fig.3 - Sarimax model for Dropoffs. Use the zooom in option to take a closer look!</figcaption>
 </figure>
