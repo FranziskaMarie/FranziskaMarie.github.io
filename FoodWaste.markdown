@@ -26,3 +26,11 @@ permalink: /posts/foodwaste
 <h2>Meat and Fish</h2>
 
 <iframe src="/assets/V_meat.html" width="100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
+
+<h2>Beverages</h2>
+
+<iframe src="/assets/V_beverages.html" width="100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
+
+<h2>Frozen Products</h2>
+
+<iframe src="/assets/V_frozen.html" width="100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
